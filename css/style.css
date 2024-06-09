@@ -2,7 +2,7 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
   padding: 0px;
-  color: #ffffff;
+  color: #e2e2e2;
 }
 
 h1, h2, h3, p, ul, li{
@@ -36,4 +36,8 @@ a{
 .header-menu{
   display: flex;
   gap: 40px;
+}
+
+.link{
+  color: #000000;
 }
